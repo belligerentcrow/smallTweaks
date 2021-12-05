@@ -1,0 +1,37 @@
+#urlbar-background,#urlbar {
+
+    border-radius: 15px !important;
+}
+:root {
+--urlbar-icon-border-radius: 20px !important;
+}
+
+panelview,  
+.panel-arrowcontent{ 
+  background:#15141a !important;  
+  color: #afafab !important; 
+  }
+  
+#identity-box {
+  fill: #22bf9f !important;
+  fill-opacity: var(--urlbar-icon-fill-opacity) !important;
+}
+
+#urlbar-search-mode-indicator-title {
+  color: #22bf9f !important;
+}
+
+#urlbar-search-mode-indicator-close {
+  fill: #22bf9f !important;
+  fill-opacity: 0.6 !important;
+}
+
+toolbarbutton.bookmark-item {
+background:#0c473b !important; 
+fill-opacity: 0.6 !important;
+border-radius: 10px !important; 
+}
+
+label.tab-text.tab-label{
+color: #22bf9f !important; 
+}
